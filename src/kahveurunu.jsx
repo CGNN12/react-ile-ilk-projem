@@ -6,6 +6,7 @@ function KahveUrunu(props) {
     <div style={{ border: '1px solid grey', margin: '10px', padding: '10px' }}>
       <h3>{props.isim}</h3>
       <p>Fiyat: {props.fiyat} TL</p>
+      Action Çalışıyor!!!  
     </div>
   );
 }
