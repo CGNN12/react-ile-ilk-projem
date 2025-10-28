@@ -5,7 +5,7 @@ function KahveUrunu(props) {
   return (
     <div style={{ border: '1px solid grey', margin: '10px', padding: '10px' }}>
       <h3>{props.isim}</h3>
-      <p>Fiyat: {props.fiyat} TLy</p>
+      <p>Fiyat: {props.fiyat} TLyasd</p>
     </div>
   );
 }
